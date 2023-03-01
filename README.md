@@ -7,6 +7,7 @@
             <li>Day 3 - Rotating Navigation</li>
             <li>Day 4 - Hidden Search Widget</li>
             <li>Day 5 - Blurry Loading</li>
+            <li>Day 6 - Scroll Animation</li>
         </ul>
     </section>
     
